@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BottomLinearLayout.iml" filepath="$PROJECT_DIR$/BottomLinearLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SoftLinearLayout-master.iml" filepath="$PROJECT_DIR$/.idea/modules/SoftLinearLayout-master.iml" group="SoftLinearLayout-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SoftLinearLayout-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SoftLinearLayout-master-app.iml" group="SoftLinearLayout-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/softlinearlayout-lib/SoftLinearLayout-master-softlinearlayout-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/softlinearlayout-lib/SoftLinearLayout-master-softlinearlayout-lib.iml" group="SoftLinearLayout-master/softlinearlayout-lib" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:/AndroidProject/BottomLinearLayout/softlinearlayout-lib/softlinearlayout.iml" filepath="E:/AndroidProject/BottomLinearLayout/softlinearlayout-lib/softlinearlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softlinearlayout-lib/softlinearlayout-lib.iml" filepath="$PROJECT_DIR$/softlinearlayout-lib/softlinearlayout-lib.iml" />
+    </modules>
+  </component>
+</project>
